@@ -1,0 +1,19 @@
+.a1{
+  color: black;
+  background-color: pink;
+}
+
+.a1.c{
+    color: black;
+    background-color: pink;
+    font-size: 30px;
+}
+
+#i1{
+    color: blue;
+}
+#i2{
+    color: black;
+    background-color: green;
+}
+
